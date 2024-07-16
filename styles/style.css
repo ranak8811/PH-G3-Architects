@@ -152,6 +152,10 @@ main > section {
   margin-bottom: 0px;
 }
 
+.text-part {
+  width: 50%;
+}
+
 #experience-badge {
   padding: 45px 42px;
   font-size: 1.5rem;
@@ -165,8 +169,13 @@ main > section {
   font-weight: 700;
 }
 
+.featured-architect {
+  width: 50%;
+}
+
 .featured-architect img {
   width: 100%;
+  height: 90%;
 }
 /* love and enjoy feature related styles ends header */
 
